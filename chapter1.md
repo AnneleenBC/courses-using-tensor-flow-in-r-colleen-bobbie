@@ -1,6 +1,7 @@
 ---
 title: 'Deep Learning in TensorFlow: Increasing the Accuracy of your Models'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Introducing Regularization Techniques
